@@ -1,0 +1,175 @@
+
+table{
+    width: 100%;
+    margin: 0px auto;
+}
+table,table td,table th{
+   
+   border-spacing:0px;
+   
+}
+tr.header td.hw {
+    width:75%;
+   text-align: left;
+   font-size: 25px;
+   font-weight: bolder;
+   padding-left: 20px;
+}
+tr.header td.sign{
+    width:25%;
+    text-align: right;
+    padding-right: 40px;
+}
+button{
+    background-color: #1474a4;
+    color: #a1dde2;
+    border-color: #1474a4;
+    border-width: 0px;
+}
+td.topic {
+    background-color: white;
+    color: #5f9929;
+    width: 100%;
+    height: 60px;
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: left;
+    padding-left: 20px;
+}
+tr.tabs{
+    height:40px;
+    background-color: #5f9929; color: #d0e191;
+    text-align: center;
+    padding-right: 20px;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: bold;
+}
+tr.tabs a{
+    text-decoration: none;
+    color: #d0e191;
+}
+tr.header{
+    height: 30px;
+    background-color: #1474a4; color: #a1dde2;
+}
+table.home td{
+    width: 100% ;
+    height: 300px;
+
+}
+table.home{
+    width: 100%;
+    margin: 0px auto;
+}
+table.home,table.home td,table.home th{
+    
+    border-spacing:0px;
+    
+}
+
+
+table.home td.ele{
+    text-align: center;
+    font-size: 75px;
+    font-weight: bolder;
+    background-color: grey;
+    width: 40%;
+    height:300px;
+    
+}
+table.home td.elem{
+    text-align: center;
+    font-size: 75px;
+    font-weight: bolder;
+    background-color: lightgrey;
+    width: 40%;
+    height:300px;
+    
+}
+table.home img.img{
+width:100%;
+ height:300px;
+}
+tr.tabs td.hme,tr.tabs td.kit,tr.tabs td.gdsp,tr.tabs td.air,tr.tabs td.hmest,tr.tabs td.hmedr,tr.tabs td.iron{
+    border: 1px solid darkolivegreen;
+    background-color: darkolivegreen;
+    
+}
+div.parentdiv{
+    display:table;
+    width:90%;
+    margin: 20px auto;
+
+}
+div.childdiv{
+    display:inline-block;
+    width:  29.99%;
+    margin: 20px;  
+
+}
+img.hd{
+    width: 100%;
+    height: 500px;
+    border-radius: 25px;
+}
+.decor{
+    font-size: 40px;
+    color: grey;
+    font-weight: bolder;
+    padding-left: 70px;;
+}
+h3.under
+{
+    text-align: center;
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+img.kw{
+    width: 100%;
+    height: 300px;
+    border-radius: 25px;
+}
+.container{
+    width: 50%;
+    margin: 100px auto;
+    text-align: center;
+    border: 1px solid darkgrey;
+    background-color: darkgrey;
+
+}
+.formdiv{
+    margin-bottom: 20px;
+    font-size: 27px;
+    font-weight: lighter;
+    /* width: 100%; */
+}.head{
+    font-size: 50px;
+}
+.formbut{
+    padding: 7px 20px;
+    border-radius: 25px;
+    }
+.forminp{
+    padding: 5px;
+    /* padding-bottom: 5px; */
+    border-radius: 4px;
+}
+.footer{
+    bottom: 0px;
+    background-color: #1474a4; color: #a1dde2;
+}
+
+.footcont{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.formlab{
+    width: 25%;
+    display: inline-block;
+    text-align: right;
+}
+.signbody{
+    background-color: lightgrey;
+}
